@@ -58,5 +58,8 @@ Relayout page with InVision |  [Penembak](https://github.com/widigdacahya/T-Rex_
 :-------------------------:|:-------------------------:|:-------------------------:|
 <a href="https://www.youtube.com/watch?v=ksGOY6YNts4&list=PLkbR7fY8jsYt8gw9bqOOleHv1l13Zw6LV&index=1&t=74s" target="_blank"><img src="https://i.ytimg.com/vi/ksGOY6YNts4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPVn5p8kBPoAL9_IDzVINQnuNCcg" alt="" width="180"></a> |  <a href="https://www.youtube.com/watch?v=QJsbJ5qIVL8" target="_blank"><img src="https://i.ytimg.com/vi/QJsbJ5qIVL8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCO4ShxeNvvWC0reZToXX-0GccP0g" alt="" width="180"></a> |  <a href="https://www.youtube.com/watch?v=zzUcDyY9vKA" target="_blank"><img src="https://i.ytimg.com/vi/zzUcDyY9vKA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCei1hhAzUwsLuttaIisoSMa5NkKQ" alt="" width="180"></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=widigdacahya&show_icons=true&locale=en" alt="widigdacahya" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=widigdacahya&" alt="widigdacahya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=widigdacahya&show_icons=true&locale=en" alt="widigdacahya" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=widigdacahya&" alt="widigdacahya" /></p>
+<!-- <p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=widigdacahya&layout=compact&langs_count=4"/> -->
+</a></p>
 
