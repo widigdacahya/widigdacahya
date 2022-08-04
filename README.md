@@ -78,9 +78,9 @@ Here are some ideas to get you started:
 <img align="" src="https://github.com/widigdacahya/FP_GrafikaKomputer/blob/main/documentation/preview-labyrint.gif?raw=true" width="300">
 <img align="" src="https://github.com/widigdacahya/uc-b-tailwindcss/blob/main/public/EstateProject/Prototype/documentation/preview-atmariani-estate.gif?raw=true" width="300"> -->
 
-[Himaseatrans2021](https://github.com/widigdacahya/himaseatrans-2021)            |  [Atmariani Estate](https://github.com/widigdacahya/uc-b-tailwindcss)  |  [Labyrinth Runner](https://github.com/widigdacahya/FP_GrafikaKomputer)
+[Himaseatrans2021](https://github.com/widigdacahya/himaseatrans-2021)            |  [Naraya UX Case Study](https://drive.google.com/file/d/1rdMUcBukJMJpWrFVJ7euF6GcjpWsUdDv/view?usp=sharing)  |  [Labyrinth Runner](https://github.com/widigdacahya/FP_GrafikaKomputer)
 :-------------------------:|:-------------------------:|:-------------------------:|
-![Himaseatrans ITS 2021](https://github.com/widigdacahya/himaseatrans-2021/blob/main/documentation/himaseatrans2021-previw.gif?raw=true)  |  ![Atmariani Estate with Tailwind](https://github.com/widigdacahya/uc-b-tailwindcss/blob/main/public/EstateProject/Prototype/documentation/preview-atmariani-estate.gif?raw=true)  | ![Labyrint Runner with Three.js](https://github.com/widigdacahya/FP_GrafikaKomputer/blob/main/documentation/preview-labyrint.gif?raw=true)
+![Himaseatrans ITS 2021](https://github.com/widigdacahya/himaseatrans-2021/blob/main/documentation/himaseatrans2021-previw.gif?raw=true)  |  ![Preview Dribble Naraya](https://cdn.dribbble.com/users/5128459/screenshots/18726631/media/2deae157eb60dcc6af3d126378069c95.png?compress=1&resize=840x630&vertical=top)  | ![Labyrint Runner with Three.js](https://github.com/widigdacahya/FP_GrafikaKomputer/blob/main/documentation/preview-labyrint.gif?raw=true)
 
 Relayout page with InVision |  [Penembak](https://github.com/widigdacahya/T-Rex_ucul)  | UKTK(Unit Kegiatan Tari dan Karawitan) ITS
 :-------------------------:|:-------------------------:|:-------------------------:|
