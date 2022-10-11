@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <!-- Head -->
 [![MasterHead](https://user-images.githubusercontent.com/62281277/150989222-e67e7cab-14be-4ee7-b6b5-d76b8df24130.jpg)](https://cahyadesthian.com/)
 <h1 align="center">👋 Hi there, Cahya here🙋🏻</h1>
-<h3 align="center">Fall in love in exploring beautiful world of Web, Android App, Design, and Editing</h3>
 <img align="right" alt="gif_pict" width="400" src="https://c.tenor.com/B2G3qZWSHZsAAAAC/kitten-cat.gif">
 <!-- Closing Head -->
 
@@ -30,8 +29,6 @@ Here are some ideas to get you started:
 - 📘 I’m currently studying in [ITS (Institut Teknologi Sepuluh Nopember)](https://www.its.ac.id/informatika/)
 
 - 🌱 Learning **Kotlin, Android Development, Website, and Editing**
-
-- 📝 I write a few things on my [portofolio page](https://portofolio.cahyadesthian.com/) and [my blog](https://cahyadesthian.com/blog-3/).
 
 - 📫 How to reach me? *[WhatsApp](https://api.whatsapp.com/send?phone=6285746641537&text=Halo.%20Namaku%20...%0AAku%20mau%20...)* | **rizkiwidigda@gmail.com**
 <br>
@@ -73,18 +70,7 @@ Here are some ideas to get you started:
 <br>
 <!-- Closing Interacting -->
 
-<h3 align="left">📖 Some Activities</h3>
-<!-- <img align="" src="https://github.com/widigdacahya/himaseatrans-2021/blob/main/documentation/himaseatrans2021-previw.gif?raw=true" width="300">
-<img align="" src="https://github.com/widigdacahya/FP_GrafikaKomputer/blob/main/documentation/preview-labyrint.gif?raw=true" width="300">
-<img align="" src="https://github.com/widigdacahya/uc-b-tailwindcss/blob/main/public/EstateProject/Prototype/documentation/preview-atmariani-estate.gif?raw=true" width="300"> -->
 
-[Himaseatrans2021](https://github.com/widigdacahya/himaseatrans-2021)            |  [Naraya UX Case Study](https://drive.google.com/file/d/1rdMUcBukJMJpWrFVJ7euF6GcjpWsUdDv/view?usp=sharing)  |  [Labyrinth Runner](https://github.com/widigdacahya/FP_GrafikaKomputer)
-:-------------------------:|:-------------------------:|:-------------------------:|
-![Himaseatrans ITS 2021](https://github.com/widigdacahya/himaseatrans-2021/blob/main/documentation/himaseatrans2021-previw.gif?raw=true)  |  ![Preview Dribble Naraya](https://cdn.dribbble.com/users/5128459/screenshots/18726631/media/2deae157eb60dcc6af3d126378069c95.png?compress=1&resize=840x630&vertical=top)  | ![Labyrint Runner with Three.js](https://github.com/widigdacahya/FP_GrafikaKomputer/blob/main/documentation/preview-labyrint.gif?raw=true)
-
-Relayout page with InVision |  [Penembak](https://github.com/widigdacahya/T-Rex_ucul)  | UKTK(Unit Kegiatan Tari dan Karawitan) ITS
-:-------------------------:|:-------------------------:|:-------------------------:|
-<a href="https://www.youtube.com/watch?v=ksGOY6YNts4&list=PLkbR7fY8jsYt8gw9bqOOleHv1l13Zw6LV&index=1&t=74s" target="_blank"><img src="https://i.ytimg.com/vi/ksGOY6YNts4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPVn5p8kBPoAL9_IDzVINQnuNCcg" alt="" width="180"></a> |  <a href="https://www.youtube.com/watch?v=QJsbJ5qIVL8" target="_blank"><img src="https://i.ytimg.com/vi/QJsbJ5qIVL8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCO4ShxeNvvWC0reZToXX-0GccP0g" alt="" width="180"></a> |  <a href="https://www.youtube.com/watch?v=zzUcDyY9vKA" target="_blank"><img src="https://i.ytimg.com/vi/zzUcDyY9vKA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCei1hhAzUwsLuttaIisoSMa5NkKQ" alt="" width="180"></a> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=widigdacahya&show_icons=true&locale=en" alt="widigdacahya" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=widigdacahya&" alt="widigdacahya" /></p>
