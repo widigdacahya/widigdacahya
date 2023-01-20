@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/cahyadesthian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cahyadesthian" height="30" width="40" /></a>
 <a href="https://instagram.com/cahyadesthian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cahyadesthian" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC5YUkCPbl2QSxm3vzWO9SYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cahyadesthian widigda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cahyadesthian.widigda/playlists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cahyadesthian widigda" height="30" width="40" /></a>
 <a href="https://twitter.com/cahyadesthian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cahyadesthian" height="30" width="40" /></a>
 <a href="https://id-id.facebook.com/cahyadesthianRW" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/f/84/facebook.svg" alt="cahyadesthian" height="30" width="40" /></a>
 </p>
 <br>
 <!-- Closing Social Me -->
 
-<!-- Currently Interacting -->
-<h3 align="left">📚 Currently interacting with :</h3>
+<!-- Learn about -->
+<h3 align="left">📚 Learn about:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https:/laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
@@ -68,12 +69,10 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 <br>
-<!-- Closing Interacting -->
+<!-- Closing Learn about -->
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=widigdacahya&show_icons=true&locale=en" alt="widigdacahya" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=widigdacahya&" alt="widigdacahya" /></p>
-<p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=widigdacahya&layout=compact&langs_count=4"/>
+| <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=widigdacahya&show_icons=true&locale=en&theme=tokyonight" alt="widigdacahya" /></p>  | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=widigdacahya&theme=tokyonight" alt="widigdacahya" /></p> |
+| ------------- | ------------- |
+<p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=widigdacahya&layout=compact&langs_count=4&theme=tokyonight"/>
 </a></p>
 
