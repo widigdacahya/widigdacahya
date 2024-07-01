@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <a href="https://twitter.com/cahyadesthian" target="blank"><img src="https://img.shields.io/twitter/follow/cahyadesthian?logo=twitter&style=for-the-badge" alt="cahyadesthian" /></a> </p> -->
 
 <!-- Intro -->
-- 📘 I’m currently working in [Artjasa](https://www.artajasa.co.id/) as Programmer Junior. Graduated from [Informatics ITS(Institut Teknologi Sepuluh Nopember)](https://www.its.ac.id/informatika/). 
+- 📘 I’m currently working in [Artajasa](https://www.artajasa.co.id/) as Programmer Junior. Graduated from [Informatics ITS(Institut Teknologi Sepuluh Nopember)](https://www.its.ac.id/informatika/). 
 
 - 🌱 Passionate about **UX, Flutter, Android Dev.**
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <h5> ▶ Mobile Development </h5>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/880px-Android_logo_2019_%28stacked%29.svg.png" alt="android" width="40" height="40"/></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/120px-Google-flutter-logo.svg.png" alt="flutter" height="40"/></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" height="40"/></a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="firebase" width="40" height="40"/></a> 
 </p>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <a href="https://www.prestashop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Prestashop.svg/1200px-Prestashop.svg.png" alt="prestashop" width="40" height="40"/></a>
 <a href="https:/laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
